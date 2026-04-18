@@ -37,9 +37,10 @@ Currently studying BSc. Software Engineering at GCTU (2024–2027) and closing t
 
 | Project | Type | Description |
 |---|---|---|
-| [D54 Brand Guidelines](https://www.figma.com/community) | Brand Identity | Figma Community template — brand system built for distribution |
-| Benignant Youth Ghana | Brand Identity | Full brand identity for a Ghanaian youth nonprofit |
-| Dentity | Brand Identity | Visual identity system for an early-stage startup |
+| [D54 Brand Guidelines](https://www.figma.com/community/file/1624006387292717573) | Brand Identity | Figma Community template — brand system built for distribution |
+| [Benignant Youth Ghana](https://www.behance.net/gallery/241283759/BRAND-IDENTITY-DESIGN-BENIGNANT-YOUTH-GHANA) | Brand Identity | Full brand identity for a Ghanaian youth nonprofit |
+| [Dentity](https://www.behance.net/gallery/170791439/DENTITY-BRAND-REFRESH-PROPOSAL) | Brand Identity | Visual identity system for an early-stage startup |
+| [Dylan's coffee](https://www.behance.net/gallery/177243425/Dylans-Coffee-Brand-Identity) | Brand Identity | Visual identity system for an early-stage startup |
 | AI Learning Platform *(in progress)* | Product Design + Dev | Final-year university project — AI-powered video learning platform with integrated assistant and TTS |
 
 ---
